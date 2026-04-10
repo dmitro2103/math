@@ -146,6 +146,19 @@
       "initials": "ТА",
       "location": "Актовый зал",
       "participants": "Все участники"
+    },
+    {
+      "id": 11,
+      "day": "mon",
+      "dayLabel": "Понедельник",
+      "date": "2.04",
+      "time": "10-12",
+      "name": "ТЕСТ",
+      "description": "ТЕСТ",
+      "responsible": "ТЕСТ",
+      "initials": "ТУ",
+      "location": "ОРЕН",
+      "participants": "ТЕСТОВЫЕ"
     }
   ]
 }
